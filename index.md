@@ -6,5 +6,5 @@ The ULF is currently still in the early development stage and does not implement
 
 The pages below contain more information about the ULF Project.
 
-## [Sub-Projects](./projects.md)
-## [Documentation](./docs.md)
+## [Sub-Projects](./projects)
+## [Documentation](./docs)
